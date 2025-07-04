@@ -1,5 +1,6 @@
 div{
     color: rgb(7, 2, 14);
     background-color: aqua;
-    padding: 15%;
+    padding: 10px;
+    margin-bottom: 10px;
 }
